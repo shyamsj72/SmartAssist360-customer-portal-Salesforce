@@ -137,6 +137,22 @@ Customer Portal Features:
 
 ![AI Resolution](screenshots/ai-resolution.png)
 
+## Project Architecture
+
+Experience Cloud Portal
+        ↓
+      Cases
+        ↓
+ Apex Trigger Framework
+        ↓
+    SLA Tracking
+        ↓
+ AI Resolution Service
+        ↓
+ External REST API
+        ↓
+ AI Resolution Logs
+
 ## Author
 Shyamjith K
-Salesforce Developer Portfolio Project
+Salesforce Developer Project
