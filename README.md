@@ -123,6 +123,19 @@ Customer Portal Features:
 - Real-Time Dashboards
 
 ---
+## Screenshots
+
+### Experience Cloud Portal
+
+![Portal](screenshots/portal-home.png)
+
+### Cases
+
+![Cases](screenshots/cases.png)
+
+### AI Resolution Engine
+
+![AI Resolution](screenshots/ai-resolution.png)
 
 ## Author
 Shyamjith K
