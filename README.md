@@ -71,21 +71,9 @@ Features available through the portal:
 
 ---
 
-## 🏗 Architecture
+## 🏗 Solution Architecture
 
-Customer Portal (Experience Cloud)
-↓
-Cases
-↓
-Apex Trigger Framework
-↓
-SLA Tracking
-↓
-AI Resolution Service
-↓
-External REST API
-↓
-AI Resolution Logs
+![Architecture Diagram](docs/architecture-diagram.png)
 
 ---
 
